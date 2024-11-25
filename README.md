@@ -38,7 +38,7 @@ The **buffer cache** is another critical topic in this chapter, focusing on the 
 ### System V File System Architecture
 
 The System V file system resides on a single logical disk or partition. Key features include:
-![System V File System](Pasted_image_20241123185239.png)
+![System V File System](Pasted image 20241113003844.png)
 
 1. **Partitions**:
     
